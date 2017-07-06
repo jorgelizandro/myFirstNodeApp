@@ -57,3 +57,24 @@ typings/
 # dotenv environment variables file
 .env
 
+# Added
+
+# Mac OSX system files
+.DS_Store
+.localized
+
+# Temporary files
+*~
+
+# IntelliJ
+.idea/**
+*.iml
+*.ipr
+*.iws
+*.rdb
+target/**
+
+**/.DS_store
+# git properties file
+git.properties
+zookeeper.out
